@@ -44,6 +44,11 @@ const API_URL = 'https://react-fast-pizza-api.onrender.com/api';
    cd react-pizza-app
 ````
 
+```bash
+ Live  https://piza-react.netlify.app/
+
+```
+
 **Install dependencies**
 
 npm install
