@@ -40,12 +40,14 @@ const API_URL = 'https://react-fast-pizza-api.onrender.com/api';
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/react-pizza-app.git
+   git clone https://github.com/Miss-Marvis/react-pizza
    cd react-pizza-app
 ````
 
 **Install dependencies**
+
 npm install
 
 **Local host**
+
 npm run dev
